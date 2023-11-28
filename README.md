@@ -14,9 +14,12 @@ Repository ini adalah isi praktikum dalam penggunaan function pada python
 
 ### Pada repository Labspy06 ini, saya akan menjelaskan hasil praktikum mengenai penggunaan function didalam python berikut dengan flowchartnya.
 
-- Dibawah ini adalah flowchart peogram nya
+- Dibawah ini adalah flowchart programnya
 
 ![flowchart](flowchart.png)
+
+- Dan dibawah hasil codingannya
+![Codingan](code.png)
 
 - Dibawah ini adalah code untuk meng-import, karena kita akan gunakan system, untuk mendapatkan clear screen yang ada dalam system os, jika kita perhatikan, disetiap function yang kita buat, terdapat syntax ```system('cls')```, syntax tersebut lah yang kita gunakan dalam hal import system ini. maka kita import terlebih dahulu, berikut code nya:
 
@@ -162,7 +165,7 @@ def ubah():
 
 ![Gambar4](ss4.png)
 
-- berikut tampilan ketika program dijalankan, setelah adanya perubahan data pada nomor urut 0 dan penambahan data untuk nomor urut 1
+- berikut tampilan ketika program dijalankan, setelah adanya perubahan data pada nomor urut 1
 
 ![Gambar5](ss5.png)
 
@@ -197,7 +200,7 @@ def hapus():
 
 ![Gambar6](ss6.png)
 
-- berikut tampilan ketika program dijalankan, dan menghapus data pada nomor urut 0 maka akan menghasilkan tampilan seperti dibawah
+- berikut tampilan ketika program dijalankan, dan menghapus data pada nomor urut 1 maka akan menghasilkan tampilan seperti dibawah
 
 ![Gambar7](ss7.png)
 
