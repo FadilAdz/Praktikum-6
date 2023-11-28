@@ -12,13 +12,17 @@
 ### Repository ini adalah isi praktikum dalam penggunaan function pada python
 ### Pada repository Praktikum 6 ini, saya akan menjelaskan hasil praktikum mengenai penggunaan function didalam python berikut dengan flowchartnya.
 
-- Dibawah ini adalah flowchart programnya
+
+### - Dibawah ini adalah flowchart programnya
 
 ![flowchart](flowchart.png)
 
-- Dan berikut adalah hasil codingannya
+
+
+### - Dan berikut adalah hasil codingannya
 
 ![Codingan](code.png)
+
 
 ## Penjelasan 
 
