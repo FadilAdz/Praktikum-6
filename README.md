@@ -9,17 +9,18 @@
 | **Mata Kuliah** | Bahasa Pemrograman |
 
 
-Repository ini adalah isi praktikum dalam penggunaan function pada python
-
-
-### Pada repository Labspy06 ini, saya akan menjelaskan hasil praktikum mengenai penggunaan function didalam python berikut dengan flowchartnya.
+### Repository ini adalah isi praktikum dalam penggunaan function pada python
+### Pada repository Praktikum 6 ini, saya akan menjelaskan hasil praktikum mengenai penggunaan function didalam python berikut dengan flowchartnya.
 
 - Dibawah ini adalah flowchart programnya
 
 ![flowchart](flowchart.png)
 
-- Dan dibawah hasil codingannya
+- Dan berikut adalah hasil codingannya
+
 ![Codingan](code.png)
+
+## Penjelasan 
 
 - Dibawah ini adalah code untuk meng-import, karena kita akan gunakan system, untuk mendapatkan clear screen yang ada dalam system os, jika kita perhatikan, disetiap function yang kita buat, terdapat syntax ```system('cls')```, syntax tersebut lah yang kita gunakan dalam hal import system ini. maka kita import terlebih dahulu, berikut code nya:
 
